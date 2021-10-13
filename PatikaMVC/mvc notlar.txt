@@ -1,0 +1,22 @@
+.NET Framework -> Microsoft'un Windows'a özel geliştirdiği bir uygulama çerçevesi
+
+.NET Core Framework ->Microsoft'un cross platform olarak geliştirdiği bir uygulama çerçevesi
+	-> 2016 yılında ismi .NET Core Framework idi.
+	-> 2020 yılında çıkan 5. sürüm ile yeni ismi .Net 5 oldu
+	-> Yani yeni sürümde core ve framework kelimeleri silindi
+	-> Bundan sonra Microsoft sadece bu framework ile devam edecek.
+	-> Tek Microsoft framework'ü olarak kalacak.
+	-> 3 sürümünden sonra 4 atlanarak direkt 5 sürümü çıktı
+
+MVC -> Sadece bir design pattern (tasarım kalıbı). Aynı zamanda Microsoft dünyasında web app'leri tanımlar.
+	Microsoft MVC pattern'ini webApp geliştirirken zorunlu tutuyor.	
+
+WebApi -> İnternetten erişilebilen ve geriye text tabanlı dönüş sağlayan uygulamalar.
+	1) Restful Api -> Restful yöntemiyle (protokol) çalışan apiler
+	2) Soap Api -> Soap protokolüyle çalışan apiler
+
+ASP.NET -> Active Server Pages'in kısaltmasıdır. Microsoft tarafında web uygulamaları geliştirirken kullanılır.
+
+IIS -> Asp ile geliştirilen uygulamaları serve eden web sunucusu.
+
+Web Forms -> Asp'nin en eski versiyonu.
